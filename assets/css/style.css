@@ -2,6 +2,7 @@
     box-sizing: border-box;
     padding: 0;
     margin: 0;
+    color: #ffffff;
 }
 
 body {
@@ -12,7 +13,6 @@ header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
-    color: #ffffff;
 }
 
 h1 {
@@ -42,7 +42,6 @@ li {
 }
 
 a {
-    color: #ffffff;
     text-decoration: none;
 }
 
@@ -76,7 +75,6 @@ p {
 }
 
 .benefits {
-    color: #ffffff;
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -108,14 +106,13 @@ p {
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
-    color: #ffffff;
 }
-
 
 .products h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
 .products img {
     max-height: 200px;
 }
@@ -126,6 +123,12 @@ footer {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
+
 footer h2 {
     font-size: 20px;
+    color: black;
+}
+
+footer p{
+   color: black;
 }
